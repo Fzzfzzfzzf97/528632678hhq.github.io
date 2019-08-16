@@ -1,2 +1,2 @@
-# 528632678hhq.github.io
-This is a pointer!
+# 今天是星期五！
+[百度一下，你就知道1](www.baidu.com)
